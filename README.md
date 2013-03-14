@@ -2,6 +2,8 @@
 
 A higher-order Leiningen task to run tasks with ad-hoc project keys.
 
+Deprecated by the addition of the `update` task in Leiningen 2.1.0.
+
 ## Usage
 
 Put `lein-assoc` `"0.1.0"` into `:plugins` in your `:user` profile or
